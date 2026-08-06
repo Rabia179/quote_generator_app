@@ -1,4 +1,6 @@
 # quote_generator_app
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1a7497fc-406e-4240-98ca-0066009ccb95" />
+
 
 A new Flutter project.
 
