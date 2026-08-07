@@ -1,5 +1,5 @@
 # quote_generator_app
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1a7497fc-406e-4240-98ca-0066009ccb95" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-08-06 at 10 12 30 AM (1)" src="https://github.com/user-attachments/assets/89583d1a-4935-4192-851b-c210c6a9c2be" />
 
 
 A new Flutter project.
